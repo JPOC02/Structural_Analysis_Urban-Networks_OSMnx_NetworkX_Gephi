@@ -2,6 +2,7 @@ venv/
 cache/
 
 *.png
+*.graphml
 
 __pycache__/
 *.py[cod]

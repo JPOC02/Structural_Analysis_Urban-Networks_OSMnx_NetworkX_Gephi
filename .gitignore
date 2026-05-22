@@ -1,7 +1,7 @@
 venv/
 cache/
 
-*.png
+*.svg
 
 __pycache__/
 *.py[cod]

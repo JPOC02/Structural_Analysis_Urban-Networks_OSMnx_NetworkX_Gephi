@@ -33202,7 +33202,7 @@
     <edge source="1761797428" target="1766032108">
       <data key="d23">1510745467, 165022427</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua João Pereira da Silva, Rua Américo Macedo</data>
+      <data key="d16">Rua Américo Macedo, Rua João Pereira da Silva</data>
       <data key="d18">False</data>
       <data key="d19">True</data>
       <data key="d20">141.17832404746366</data>
@@ -33901,7 +33901,7 @@
     <edge source="1766032015" target="6443663416">
       <data key="d23">687250162, 1372540831</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Coronel Francisco Martins, Travessa Esperanto</data>
+      <data key="d16">Travessa Esperanto, Rua Coronel Francisco Martins</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">51.649773124362</data>
@@ -34771,7 +34771,7 @@
     </edge>
     <edge source="1766032091" target="1766032104">
       <data key="d23">165022420, 775195878</data>
-      <data key="d15">residential, unclassified</data>
+      <data key="d15">unclassified, residential</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">405.96673763666087</data>
@@ -38036,7 +38036,7 @@
     <edge source="1985171944" target="3802816463">
       <data key="d23">685140145, 685140146, 968702603</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Dalva de Medeiros, Rua Poeta Ezequiel Lins Wanderley</data>
+      <data key="d16">Rua Poeta Ezequiel Lins Wanderley, Rua Dalva de Medeiros</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">87.13145837702135</data>
@@ -38046,7 +38046,7 @@
     <edge source="1985171945" target="6443663419">
       <data key="d23">187874901, 687417317</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Doutor Mariano Coelho, Rua Porciano Barbalho Bezerra</data>
+      <data key="d16">Rua Porciano Barbalho Bezerra, Rua Doutor Mariano Coelho</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">157.7028381367977</data>
@@ -39473,7 +39473,7 @@
     <edge source="1985789708" target="1985796907">
       <data key="d23">1369233312, 306896417, 306896420</data>
       <data key="d15">residential</data>
-      <data key="d16">Praça Getúlio Vargas, Travessa Fernando Tavares, Rua Frei Miguelinho</data>
+      <data key="d16">Rua Frei Miguelinho, Travessa Fernando Tavares, Praça Getúlio Vargas</data>
       <data key="d18">True</data>
       <data key="d19">False</data>
       <data key="d20">126.8766758492595</data>
@@ -39802,7 +39802,7 @@
     <edge source="1985789732" target="1985796907">
       <data key="d23">187945881, 187945867</data>
       <data key="d15">residential</data>
-      <data key="d16">Praça Getúlio Vargas, Rua Frei Miguelinho</data>
+      <data key="d16">Rua Frei Miguelinho, Praça Getúlio Vargas</data>
       <data key="d18">True</data>
       <data key="d19">False</data>
       <data key="d20">75.8099633681759</data>
@@ -40343,7 +40343,7 @@
     <edge source="1985796923" target="12737395267">
       <data key="d23">306896419, 754918620, 187944910, 1375669487</data>
       <data key="d15">residential</data>
-      <data key="d16">Praça Getúlio Vargas, Rua Frei Miguelinho</data>
+      <data key="d16">Rua Frei Miguelinho, Praça Getúlio Vargas</data>
       <data key="d18">True</data>
       <data key="d19">False</data>
       <data key="d20">163.28913953729352</data>
@@ -41150,7 +41150,7 @@
     <edge source="1987124777" target="12678186962">
       <data key="d23">754051505, 754051507</data>
       <data key="d15">tertiary</data>
-      <data key="d16">Rua Sinhazinha Wanderley, Rua 16 de Outubro</data>
+      <data key="d16">Rua 16 de Outubro, Rua Sinhazinha Wanderley</data>
       <data key="d18">True</data>
       <data key="d19">False</data>
       <data key="d20">95.4853461531525</data>
@@ -41996,7 +41996,7 @@
     <edge source="2130350282" target="3140117697">
       <data key="d23">379130713, 308747317, 968702695</data>
       <data key="d15">secondary</data>
-      <data key="d16">Avenida Senador João Câmara, Avenida Poeta Renato Caldas</data>
+      <data key="d16">Avenida Poeta Renato Caldas, Avenida Senador João Câmara</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">484.0338145193223</data>
@@ -43300,7 +43300,7 @@
     <edge source="3122684748" target="3138440694">
       <data key="d23">308581243, 753366607</data>
       <data key="d15">residential</data>
-      <data key="d16">Travessa Ulisses Caldas, Travessa Moisés Soares</data>
+      <data key="d16">Travessa Moisés Soares, Travessa Ulisses Caldas</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">172.9487096012674</data>
@@ -45645,7 +45645,7 @@
     <edge source="3140071983" target="3140072012">
       <data key="d23">308742456, 763003491</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Maria Áurea da Silva, Avenida Maria do Carmo Lopes</data>
+      <data key="d16">Avenida Maria do Carmo Lopes, Rua Maria Áurea da Silva</data>
       <data key="d18">False</data>
       <data key="d19">True</data>
       <data key="d20">222.68091876147398</data>
@@ -46882,7 +46882,7 @@
     <edge source="3802816210" target="3802816213">
       <data key="d23">376902069, 376902070</data>
       <data key="d15">residential</data>
-      <data key="d16">Travessa Daniel Diniz, Rua Daniel Vieira Diniz</data>
+      <data key="d16">Rua Daniel Vieira Diniz, Travessa Daniel Diniz</data>
       <data key="d18">False</data>
       <data key="d19">True</data>
       <data key="d20">156.03767227025332</data>
@@ -46902,7 +46902,7 @@
     <edge source="3802816212" target="3802816213">
       <data key="d23">376902072, 376902067, 376902071</data>
       <data key="d15">residential</data>
-      <data key="d16">Travessa Vila N. da Princesa, Rua João Macaiba</data>
+      <data key="d16">Rua João Macaiba, Travessa Vila N. da Princesa</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">213.88294746177172</data>
@@ -50603,7 +50603,7 @@
     <edge source="3802816725" target="3802816726">
       <data key="d23">968702672, 376902170, 376902171</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Pedro Cícero de Oliveira Junior, Rua Pedro Cícero de Oliveira Júnior</data>
+      <data key="d16">Rua Pedro Cícero de Oliveira Júnior, Rua Pedro Cícero de Oliveira Junior</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">197.13858959087577</data>
@@ -52026,7 +52026,7 @@
     <edge source="3802839382" target="3802839384">
       <data key="d23">1088950448, 764044989</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Doutor Pedro Soares de Araujo Amorim, Rua Honorio Onofre da Fonseca</data>
+      <data key="d16">Rua Honorio Onofre da Fonseca, Rua Doutor Pedro Soares de Araujo Amorim</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">112.39608784917891</data>
@@ -53063,7 +53063,7 @@
     <edge source="3802839482" target="3802906792">
       <data key="d23">968702617, 968702700</data>
       <data key="d15">tertiary</data>
-      <data key="d16">Avenida Prefeito Acelino Costa Leitão, Avenida Prefeito Argelino Costa Leitão</data>
+      <data key="d16">Avenida Prefeito Argelino Costa Leitão, Avenida Prefeito Acelino Costa Leitão</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">776.5313311027658</data>
@@ -53747,7 +53747,7 @@
     <edge source="3802890144" target="3802890148">
       <data key="d23">376911792, 687248175</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Manoel Pedro Filho, Rua José Tavares Junior</data>
+      <data key="d16">Rua José Tavares Junior, Rua Manoel Pedro Filho</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">150.415172154952</data>
@@ -56300,7 +56300,7 @@
     </edge>
     <edge source="3823191155" target="3823220838">
       <data key="d23">378955276, 378952933</data>
-      <data key="d15">residential, unclassified</data>
+      <data key="d15">unclassified, residential</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">839.9292836988079</data>
@@ -57764,7 +57764,7 @@
     </edge>
     <edge source="4023750671" target="4023750684">
       <data key="d23">1450771553, 1450771554, 399669021</data>
-      <data key="d15">road, unclassified</data>
+      <data key="d15">unclassified, road</data>
       <data key="d18">False</data>
       <data key="d19">True</data>
       <data key="d20">1356.441934882542</data>
@@ -64646,7 +64646,7 @@
     <edge source="6443663394" target="6443663415">
       <data key="d23">687413634, 687413636</data>
       <data key="d15">residential</data>
-      <data key="d16">Travessa José de Deus Barbosa, Rua Justiniano Lins Caldas</data>
+      <data key="d16">Rua Justiniano Lins Caldas, Travessa José de Deus Barbosa</data>
       <data key="d18">False</data>
       <data key="d19">True</data>
       <data key="d20">126.4541436301088</data>
@@ -66477,7 +66477,7 @@
     </edge>
     <edge source="6997921687" target="8842204968">
       <data key="d23">306881899, 955354740, 1411716654</data>
-      <data key="d15">residential, unclassified</data>
+      <data key="d15">unclassified, residential</data>
       <data key="d16">Estrada do Piató</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
@@ -66817,7 +66817,7 @@
     <edge source="7053426722" target="7053440680">
       <data key="d23">1382699289, 755064124</data>
       <data key="d15">residential</data>
-      <data key="d16">Travessa Doutor Luiz Carlos, Rua Deputado Tomaz José de Sena</data>
+      <data key="d16">Rua Deputado Tomaz José de Sena, Travessa Doutor Luiz Carlos</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">35.57653030154728</data>
@@ -67085,7 +67085,7 @@
     <edge source="7053527646" target="7053527648">
       <data key="d23">755070970, 1377948722</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua João de Sá Leitão, Rua Dr. Milton Marques de Medeiros</data>
+      <data key="d16">Rua Dr. Milton Marques de Medeiros, Rua João de Sá Leitão</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">116.64007125444542</data>
@@ -67525,7 +67525,7 @@
     <edge source="7189475232" target="7189858700">
       <data key="d23">308586042, 754051502</data>
       <data key="d15">residential</data>
-      <data key="d16">Rua Cassimira do Nascimento, Rua Francisco Belo de Oliveira</data>
+      <data key="d16">Rua Francisco Belo de Oliveira, Rua Cassimira do Nascimento</data>
       <data key="d18">False</data>
       <data key="d19">False</data>
       <data key="d20">706.6806154000736</data>
@@ -69013,7 +69013,7 @@
     </edge>
     <edge source="7388669360" target="7462486973">
       <data key="d23">797861740, 378965726</data>
-      <data key="d15">residential, unclassified</data>
+      <data key="d15">unclassified, residential</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">267.75248795012584</data>
@@ -72740,13 +72740,13 @@
     </edge>
     <edge source="9437894918" target="9437894920">
       <data key="d23">1023408458, 1023408459, 1182373287</data>
-      <data key="d15">residential, unclassified</data>
+      <data key="d15">unclassified, residential</data>
       <data key="d18">False</data>
       <data key="d26">False, True</data>
       <data key="d20">151.2185933254338</data>
       <data key="d21">9437894920</data>
       <data key="d22">9437894918</data>
-      <data key="d27">20, 30</data>
+      <data key="d27">30, 20</data>
       <data key="d16">Rua Martins Canuto de Morais</data>
     </edge>
     <edge source="9437894941" target="9437895177">
@@ -73992,7 +73992,7 @@
       <data key="d21">13806847531</data>
       <data key="d22">13806847530</data>
     </edge>
-    <data key="d0">2026-05-21 17:32:07</data>
+    <data key="d0">2026-05-22 20:30:49</data>
     <data key="d1">OSMnx 2.1.0</data>
     <data key="d2">epsg:4326</data>
     <data key="d3">True</data>

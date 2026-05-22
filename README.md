@@ -63,15 +63,51 @@ Os grafos podem ser exportados para o Gephi e no nosso caso objetivamos permitir
 
 # Espaço para Gráficos e Resultados
 
-## Exemplo de Rede Urbana
+## grafo top betwewnness
 
-[grafico 1]
+![Texto Alternativo](<img width="1298" height="1848" alt="sim" src="https://github.com/user-attachments/assets/49fe098f-b545-4be9-a1a3-7e8fd4669ac5" />)
 
 ---
 
-## Exemplo de Métricas
+## grafo top closeness
 
-[graufico 2]
+![Texto Alternativo](URL_da_Imagem)
+
+---
+
+## grafo top degree
+
+![Texto Alternativo](URL_da_Imagem)
+
+---
+
+## grafo municipio de borda
+
+![Texto Alternativo](URL_da_Imagem)
+
+---
+
+## grafico force atlas 2
+
+![Texto Alternativo](URL_da_Imagem)
+
+---
+
+## grafico force atlas 2 15%
+
+![Texto Alternativo](URL_da_Imagem)
+
+---
+
+## grafico k-core=2 force atlas 2
+
+![Texto Alternativo](URL_da_Imagem)
+
+---
+
+## grafo municipio de borda
+
+![Texto Alternativo](URL_da_Imagem)
 
 ---
 

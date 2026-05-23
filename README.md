@@ -71,7 +71,7 @@ Os grafos podem ser exportados para o Gephi e no nosso caso objetivamos permitir
 
 ## grafo top closeness
 
-![Texto Alternativo](./images/grafo_top10_closenness.png)
+![Texto Alternativo](./images/grafo_top10_closeness.png)
 
 ---
 
@@ -89,19 +89,19 @@ Os grafos podem ser exportados para o Gephi e no nosso caso objetivamos permitir
 
 ## grafico force atlas 2
 
-![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2.pdf)
+![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2.png)
 
 ---
 
 ## grafico force atlas 2 15%
 
-![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2_degree_15%.pdf)
+![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2_degree_15.png)
 
 ---
 
 ## grafico k-core=2 force atlas 2
 
-![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2_k-core=2.pdf)
+![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2_k-core=2.png)
 
 ---
 
@@ -113,7 +113,7 @@ Os grafos podem ser exportados para o Gephi e no nosso caso objetivamos permitir
 
 ## grafo graph_GeoLayout 15%
 
-![Texto Alternativo](./gephi/Gephi_graph_GeoLayout_degree_15%.png).
+![Texto Alternativo](./gephi/Gephi_graph_GeoLayout_degree_15.png).
 
 ---
 

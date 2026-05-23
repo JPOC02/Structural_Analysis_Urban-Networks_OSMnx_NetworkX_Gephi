@@ -65,49 +65,61 @@ Os grafos podem ser exportados para o Gephi e no nosso caso objetivamos permitir
 
 ## grafo top betwewnness
 
-![Texto Alternativo](<img width="1298" height="1848" alt="sim" src="https://github.com/user-attachments/assets/49fe098f-b545-4be9-a1a3-7e8fd4669ac5" />)
+![Texto Alternativo](./images/grafo_top10_betweenness.png)
 
 ---
 
 ## grafo top closeness
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./images/grafo_top10_closenness.png)
 
 ---
 
 ## grafo top degree
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./images/grafo_top10_degree.png)
 
 ---
 
 ## grafo municipio de borda
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./images/municipio_borda.png)
 
 ---
 
 ## grafico force atlas 2
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2.pdf)
 
 ---
 
 ## grafico force atlas 2 15%
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2_degree_15%.pdf)
 
 ---
 
 ## grafico k-core=2 force atlas 2
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./gephi/Gephi_graph_ForceAtlas2_k-core=2.pdf)
 
 ---
 
-## grafo municipio de borda
+## grafo graph_GeoLayout
 
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](./gephi/Gephi_graph_GeoLayout.png)
+
+---
+
+## grafo graph_GeoLayout 15%
+
+![Texto Alternativo](./gephi/Gephi_graph_GeoLayout_degree_15%.png).
+
+---
+
+## grafo graph_GeoLayout k-core=2
+
+![Texto Alternativo](./gephi/Gephi_graph__GeoLayout_k-core=2.png)
 
 ---
 

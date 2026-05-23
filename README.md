@@ -1,6 +1,6 @@
 # Structural_Analysis_Urban-Networks_OSMnx_NetworkX_Gephi
 
-#membros do grupo:
+## membros do grupo:
 
 João Paulo Oliveira Cabral;
 Gustavo Quezado Gurgel Magalhães.

@@ -2,8 +2,8 @@
 
 #membros do grupo:
 
-João Paulo Oliveira Cabral
-Gustavo Quezado Gurgel Magalhães
+João Paulo Oliveira Cabral;
+Gustavo Quezado Gurgel Magalhães.
 
 ---
 
